@@ -1,4 +1,7 @@
 # Import the student module
+import utils.http_session
+import utils.transport
+import utils.session
 import student_module as sm
 
 # Menu-driven interface
